@@ -1,5 +1,5 @@
 # price_labeling
-example of mark up by <a href="https://github.com/CVHub520/X-AnyLabeling">X-AnyLabeling</a> in <a href="https://github.com/AnnDomashenko/price_labeling/tree/master/data">data</a>
+An example of markup and a photo using <a href="https://github.com/CVHub520/X-AnyLabeling">X-AnyLabeling</a> can be found in the <a href="https://github.com/AnnDomashenko/price_labeling/tree/master/data">data</a> folder
 
 Bounding boxes: 
 <br>
